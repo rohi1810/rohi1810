@@ -20,8 +20,14 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohi1810&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+  <!-- Top: 3D Chart -->
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="700" height="250" alt="3D Contribution Chart">
+  
+  <br><br>
+  
+  <!-- Bottom: Stats side by side -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rohi1810&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 🎯 3D Contribution Graph
