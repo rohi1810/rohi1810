@@ -20,7 +20,7 @@
 ## 📊 GitHub Analytics
 
 ### 🎯 3D Contribution Graph
-![3D Contribution Chart](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Chart](./profile-3d-contrib/profile-season-animate.svg)
 
 
 ### 📈 GitHub Stats
