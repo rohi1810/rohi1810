@@ -1,21 +1,161 @@
-<h1 align="center">Hi 👋, I'm Rohankumar Italiya</h1>
-<h3 align="center">AI Student</h3>
+<h1 align="center">Hello World! 👋 I'm Rohankumar Italiya</h1>
+<h3 align="center">AI Student & Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohi1810&label=Profile%20views&color=000000&style=plastic" alt="rohi1810" /> </p>
-
-- 🔭 I’m currently working on [Autonomous RosBot Navigation in Webots](https://github.com/rohi1810/ROSbotWebots)
-
-- 👨‍💻 All of my projects are available at [https://rohan-italiya.netlify.app/](https://rohan-italiya.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan-italiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-italiya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rohan-italiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohan-italiya" height="30" width="40" /></a>
-<a href="https://kaggle.com/rohi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohi18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ritaliya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritaliya7" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://github.com/rohi1810?tab=repositories">
+        <img src="https://img.shields.io/badge/AI%20Projects-20+-blue?style=for-the-badge&logo=github"
+            alt="AI Projects">
+    </a>
+    <a href="https://github.com/rohi1810?tab=repositories&language=python">
+        <img src="https://img.shields.io/badge/Python-ML%20Focus-3776AB?style=for-the-badge&logo=python"
+            alt="Python ML">
+    </a>
+    <a href="https://github.com/rohi1810?tab=repositories&language=jupyter">
+        <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=rohi1810.rohi1810" alt="Visitors" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohi1810&show_icons=true&locale=en" alt="rohi1810" /></p>
+---
+
+## 🎓 About Me
+
+I'm a passionate **AI Student** currently exploring the fascinating world of **Machine Learning, Deep Learning, and Data
+Science**. I love building intelligent systems and working on projects that solve real-world problems using AI
+technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🤖 Core AI/ML Stack
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python"
+        title="Python - My primary language for AI/ML" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch"
+        title="PyTorch - Deep Learning framework" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas"
+        title="Pandas - Data manipulation & analysis" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter"
+        title="Jupyter - Research & experimentation" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy"
+        title="NumPy - Numerical computing" />
+</div>
+
+### 📊 Data & Databases
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"
+        title="MySQL - Database management" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"
+        title="MongoDB - NoSQL database" />
+</div>
+
+### 🌐 Web Development
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
+        alt="javascript" title="JavaScript" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"
+        title="React - Frontend development" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase"
+        title="Firebase - Backend services" />
+</div>
+
+### 🔧 Tools & Technologies
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"
+        title="Git - Version control" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"
+        alt="selenium" title="Selenium - Web automation" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab"
+        title="GitLab - CI/CD" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+    <a href="https://github.com/rohi1810">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=rohi1810&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+            alt="Rohankumar's GitHub Stats" />
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&langs_count=8&hide_border=true&bg_color=30,161b22,0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=320"
+            alt="Top Languages" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/rohi1810">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohi1810&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+            alt="GitHub Streak" />
+    </a>
+</div>
+
+---
+
+## 🚀 AI/ML Projects
+
+Here are some of my learning projects in Artificial Intelligence:
+
+- **🤖 [Neural Network Implementation]** - From-scratch neural network using NumPy
+- **📊 [Data Analysis Project]** - Exploratory data analysis with Pandas & Matplotlib
+- **🧠 [Deep Learning Model]** - Image classification using PyTorch
+- **🌐 [AI Web App]** - React frontend with ML model backend
+- **🔍 [Computer Vision]** - Object detection/recognition projects
+
+> *Exploring more AI concepts in my [repositories](https://github.com/rohi1810?tab=repositories)*
+
+---
+
+## 📚 Currently Learning
+
+- **Advanced Deep Learning Architectures**
+- **Natural Language Processing (NLP)**
+- **Computer Vision Techniques**
+- **MLOps and Model Deployment**
+- **Reinforcement Learning**
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/rohi1810/rohi1810/output/snake.svg"
+        alt="Snake animation showing my contribution graph" />
+</div>
+
+---
+
+<div align="center">
+
+    ### 📫 Let's Connect!
+
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohi1810)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankumar-italiya)
+    [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link)
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+    ⭐ **"The science of today is the technology of tomorrow." - Edward Teller** ⭐
+
+    *Always learning, always building! Feel free to explore my AI journey through my repositories.*
+
+</div>
