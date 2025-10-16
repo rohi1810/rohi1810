@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohi1810&label=Profile%20views&color=0e75b6&style=flat" alt="rohi1810" />
-  <img src="https://img.shields.io/badge/AI-ML%20Enthusiast-FF6B6B?style=flat&logo=ai&logoColor=white" alt="AI Enthusiast" />
+  <!-- <img src="https://img.shields.io/badge/AI-ML%20Enthusiast-FF6B6B?style=flat&logo=ai&logoColor=white" alt="AI Enthusiast" /> -->
 </p>
 
 ---
