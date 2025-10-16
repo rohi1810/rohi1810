@@ -28,7 +28,7 @@
 ![3D Contribution Chart](./profile-3d-contrib/profile-season-animate.svg)
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100" height="300" alt="3D Contribution Chart">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" height="300" alt="3D Contribution Chart">
 </div>
 
 
