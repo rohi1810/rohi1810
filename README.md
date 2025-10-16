@@ -95,12 +95,3 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  
-### ⚡ **Currently Building:** Autonomous navigation systems and AI solutions
-  
-![Snake animation](https://github.com/rohi1810/rohi1810/blob/output/github-contribution-grid-snake.svg)
-
-</div>
