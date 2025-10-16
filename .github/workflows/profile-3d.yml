@@ -1,0 +1,40 @@
+name: Update 3D Contribution Chart
+
+on:
+  schedule: # Runs daily at 6:00 PM UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-3d-contrib:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Chart for Rohi1810
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          
+      # Step 2: Generate 3D contribution chart
+      - name: Generate 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: rohi1810  # Your GitHub username
+          
+      # Step 3: Commit and push the generated chart
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update 3D contribution chart for rohi1810"
+            git push
+          fi
