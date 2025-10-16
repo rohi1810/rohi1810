@@ -18,7 +18,6 @@
 
 ## 📊 GitHub Analytics
 
-### 📈 GitHub Stats
 <div align="center">
   <!-- Top: 3D Chart -->
   <img src="./profile-3d-contrib/profile-season-animate.svg" width="700" height="450" alt="3D Contribution Chart">
