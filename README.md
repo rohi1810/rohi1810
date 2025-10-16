@@ -30,12 +30,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
 
-### 🎯 3D Contribution Graph
-![3D Contribution Chart](./profile-3d-contrib/profile-season-animate.svg)
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" height="300" alt="3D Contribution Chart">
-</div>
 
 
 
