@@ -29,10 +29,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohi1810&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
