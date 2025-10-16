@@ -20,7 +20,8 @@
 ## 📊 GitHub Analytics
 
 ### 🎯 3D Contribution Graph
-![3D Contribution Chart](https://github-profile-3d-contrib.vercel.app/api?username=rohi1810&theme=radical)
+![3D Contribution Chart](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ### 📈 GitHub Stats
 <div align="center">
