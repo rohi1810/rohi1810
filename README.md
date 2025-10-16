@@ -18,15 +18,17 @@
 
 ## 📊 GitHub Analytics
 
-### 🎯 3D Contribution Graph
-![3D Contribution Chart](./profile-3d-contrib/profile-season-animate.svg)
-
-
 ### 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohi1810&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
+
+### 🎯 3D Contribution Graph
+![3D Contribution Chart](./profile-3d-contrib/profile-season-animate.svg){ width="400" height="400" }
+
+
+
 
 ---
 
