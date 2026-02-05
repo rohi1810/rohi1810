@@ -25,7 +25,7 @@
   <br><br>
   
   <!-- Bottom: Stats side by side -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rohi1810&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=rohi1810&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi1810&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
 
