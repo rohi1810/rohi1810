@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working:** [Autonomous RosBot Navigation in Webots](https://github.com/rohi1810/ROSbotWebots) - Time-optimal path planning with constraint avoidance
 - 🌱 **Learning:** Advanced Robotics, Computer Vision, Deep Learning
 - 👨‍💻 **Portfolio:** [rohan-italiya.netlify.app](https://rohan-italiya.netlify.app/)
 - 💡 **Interests:** Autonomous Systems, Machine Learning, Full-Stack Development
