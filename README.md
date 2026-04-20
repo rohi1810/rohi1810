@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🌱 **Learning:** Advanced Robotics, Computer Vision, Deep Learning
-- 👨‍💻 **Portfolio:** [rohan-italiya.netlify.app](https://rohan-italiya.netlify.app/)
+- 👨‍💻 **Portfolio:** [rohan-italiya.netlify.app](https://italiya-rohan.netlify.app/)
 - 💡 **Interests:** Autonomous Systems, Machine Learning, Full-Stack Development
 
 ---
